@@ -6,5 +6,5 @@ Hard version: https://www.lexaloffle.com/bbs/?pid=42548#p42547
 
 Easy version: https://schrunkin.itch.io/press-x-to-launch
 
-## Gifs
+## What it looks like
 ![alt text](rocket.gif)
